@@ -1,4 +1,3 @@
-```markdown
 # GoodForest Scraper
 
 ![GoodForest Scraper Logo](https://via.placeholder.com/150x50?text=GoodForest+Scraper)  
