@@ -1,15 +1,12 @@
 # GoodForest Scraper
 
-![GoodForest Scraper Logo](https://via.placeholder.com/150x50?text=GoodForest+Scraper)  
-_(remplace ce lien par ton propre logo si tu en as un)_
-
 Un outil de scraping cross-plateforme pour collecter automatiquement les résultats Google et Google Scholar sur les scolytes, le prix du bois et les pathogènes du bois.
 
 ---
 
 ## Fonctionnalités
 
-- **Interface graphique conviviale** (Tkinter)
+- **Interface graphique ** (Tkinter)
 - **Scraping Google et Google Scholar**
 - **Filtrage des résultats récents** (moins de 2 semaines)
 - **Export des résultats en CSV sur le bureau**
@@ -104,8 +101,7 @@ python script.py
 
 ## Licence
 
-Ce projet est sous licence MIT.
-Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
+
 
 ---
 
