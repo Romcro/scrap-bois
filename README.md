@@ -1,4 +1,4 @@
-# GoodForest Scraper
+# goodforest Scraper
 
 Un outil de scraping cross-plateforme pour collecter automatiquement les résultats Google et Google Scholar sur les scolytes, le prix du bois et les pathogènes du bois.
 
